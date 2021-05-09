@@ -1,5 +1,5 @@
 # Web Project - Movie Reviews
-Team project for Web Development subject at KBTU (spring 2020).
+Team project for Web Development subject at KBTU (spring 2021).
 
 ### Frontend:
 
